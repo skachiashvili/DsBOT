@@ -1,0 +1,23 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "steve ai",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skachiashvili/discordbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skachiashvili/discordbot/issues"
+  },
+  "homepage" : "https://github.com/skachiashvili/discordbot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
