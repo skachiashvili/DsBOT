@@ -20,4 +20,4 @@ client.on('message', (message)=>{
 
 
 
-client.login('Nzk3NDUyNDU2MTE1OTYxODc3.X_mreQ.2f6yt1xq6ZCdiZ40ABoia_ZBN2w');
+client.login('Nzk3NDUyNDU2MTE1OTYxODc3.X_mreQ.1oEIHpwKeOjFTk6VFwJq7yVbXDI');
